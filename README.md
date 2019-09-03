@@ -6,7 +6,7 @@
 * Basant Kumar
 * Kumari Partibha
 * Anand Prakash
-* Pawan Saini
+* Pawan Kumar Saini
 * Kumar Ankul
 * Gourav Barnwal
 ### Mentor
